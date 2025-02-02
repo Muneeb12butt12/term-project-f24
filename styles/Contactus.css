@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d1f2eb;
+}
+
+#contact {
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    color: #154360;
+}
+
+p {
+    color: #333;
+}
